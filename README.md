@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947" alt="Music Visual" width="600"/>
+  <img src="https://unsplash.com/s/photos/spotify" alt="Music Visual" width="600"/>
 </p>
 
 # 🎧 Clustering Spotify Songs Using K-Means
