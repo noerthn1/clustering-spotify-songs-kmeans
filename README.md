@@ -44,6 +44,10 @@ The 2D PCA scatterplot shows clear separation between these clusters, confirming
 - K-Means successfully identified clusters corresponding to broad musical “moods” or “styles.”
 - Features like **energy**, **acousticness**, and **valence** are most influential in defining clusters.
 
+## Visualization
+<p align="center">
+  <img src=img/cluster_features.png alt="Music Visual" width="600"/>
+</p>
 ## Real-World Applications
 - 🎵 **Music Recommendation:** Group similar-sounding songs for better playlist generation.
 - 🧠 **Genre Analysis:** Discover sub-genres or mood patterns across the Spotify catalog.
